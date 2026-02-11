@@ -2,5 +2,9 @@
   {
     "email": "teste@gmail.com",
     "senha": "123"
+  },
+  {
+    "email": "duvido@gmail.com",
+    "senha": "1234"
   }
 ]
